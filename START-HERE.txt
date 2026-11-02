@@ -1,0 +1,28 @@
+VIKAS LUCKY INTERIOR WORK — COMPLETE WEBSITE
+
+QUICK DEPLOYMENT
+1. Extract this ZIP.
+2. Upload the extracted files to your hosting service. The root index.html must be at the top level of the published folder.
+3. The root index.html includes all images and fonts. No installation, build command, server, database or API key is needed.
+
+NETLIFY
+Drop the extracted website folder into Netlify's manual deployment page. The folder should contain index.html directly.
+
+GITHUB PAGES
+Upload the extracted files to a GitHub repository. In Settings > Pages, select Deploy from a branch, choose main and / (root), then save. If you use GitHub Actions instead, the included .github/workflows/static.yml publishes the repository root.
+
+OTHER STATIC HOSTS / CPANEL
+Upload index.html to your host's web root (often public_html). You can also upload the entire extracted folder contents.
+
+FILES
+- index.html: standalone website, with all fonts and images embedded.
+- dist/index.html and dist/assets/: the original website in multiple files. To use this version, publish the contents of dist together.
+- .openai/hosting.json: original Sites hosting configuration; not required for other hosts.
+- .github/workflows/static.yml: optional GitHub Pages deployment workflow.
+- README.md: project notes.
+
+APPOINTMENTS
+The form opens WhatsApp with a prepared message to +91 70214 10676. The visitor reviews and sends it in WhatsApp. Appointment times require confirmation by the business.
+
+CONTENT NOTES
+Interior concept images are AI-generated and labeled on the website. Google rating comes from the supplied screenshot. Social handles were not verified. No plugin integration is configured.
